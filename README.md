@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Chandra Dutt Patel!
+# 👋 Hey, I'm Chandradutt Patel!
 
-### 🔐 Cryptography Engineer | FHE Specialist | Full-Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Cryptography+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Developer;Building+Secure+%26+Scalable+Solutions;OpenFHE+%7C+Microsoft+SEAL+%7C+Machine+Learning;Open+to+UK+Opportunities+🇬🇧" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Fully+Homomorphic+Encryption+Expert;Building+Privacy-Preserving+Financial+Systems;OpenFHE+%7C+SEAL+%7C+Quantum-Resistant+Cryptography;Open+to+UK+Opportunities" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Privacy--Preserving_Tech-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Cryptography_&_ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -13,62 +17,196 @@
 ## 🎯 About Me
 
 ```yaml
-name: Patel Chandradutt Nareshkumar
-role: Cryptography Engineer & Software Developer
-location: Actively seeking opportunities in the United Kingdom
-current_project: Obfuscora Quantum - FHE-based Financial Services Platform
+name: Patel Chandradutt
+role: Cryptography Engineer | Software Developer
+location: 🇬🇧 Actively seeking opportunities in the United Kingdom
 specialization: 
   - Fully Homomorphic Encryption (FHE)
   - Privacy-Preserving Computation
-  - Secure Financial Systems
-  - Machine Learning & AI
-core_technologies: [OpenFHE, Microsoft SEAL, Python, Django, FastAPI]
+  - Machine Learning & Data Science
+  - Full-Stack Web Development
+core_technologies: [OpenFHE, Microsoft SEAL, Python, Django, React, FastAPI]
+passion: Building secure, scalable, and privacy-first solutions
 github_since: October 2020
 ```
 
-🔭 **Currently Building:** [**Obfuscora Quantum**](https://github.com/chandradutt5746/obfuscora-quantum) - A production-grade financial services platform using Fully Homomorphic Encryption (OpenFHE) that enables secure computation on encrypted data for risk assessment, fraud detection, and AML monitoring  
+<table>
+<tr>
+<td width="50%">
 
-🔐 **Cryptography Focus:**
-- Implementing BGV, CKKS, and BFV encryption schemes
-- Hardware-accelerated FHE with CUDA/GPU support
-- Python bindings for SEAL (Microsoft SEAL-Python 4.1.5)
-- OpenFHE Python API development and testing
+🔐 **Cryptography Enthusiast**
+- Fully Homomorphic Encryption expert
+- OpenFHE & Microsoft SEAL specialist
+- Privacy-preserving computation
 
-🌱 **Learning & Exploring:** Advanced Machine Learning, AI, Quantum-Resistant Cryptography, and Cloud-Native Security Architectures  
+🤖 **Data Scientist**
+- Machine Learning & AI
+- TensorFlow, PyTorch, scikit-learn
+- Big Data processing (Hadoop, Spark)
 
-💼 **Open to:** Software Engineering roles, Cryptography positions, and Security-focused opportunities in the UK  
+</td>
+<td width="50%">
 
-💬 **Ask me about:** Fully Homomorphic Encryption, OpenFHE, Microsoft SEAL, Python, Django, FastAPI, Secure System Design, Privacy-Preserving ML
+💻 **Full-Stack Developer**
+- Python, JavaScript, TypeScript, C++
+- Django, FastAPI, React
+- Cloud & DevOps (AWS, Azure, GCP)
 
-🤝 **Looking for:** Professional opportunities and collaborations on cutting-edge cryptography and security projects
+🌍 **Available for:**
+- Software Engineering roles in UK
+- Cryptography & Security positions
+- Data Science opportunities
 
----
-
-## 🔬 Featured Projects
-
-### 🌟 [Obfuscora Quantum](https://github.com/chandradutt5746/obfuscora-quantum)
-**Privacy-Preserving Financial Services Platform**
-- 🔐 Fully Homomorphic Encryption using **OpenFHE-Python**
-- 💰 Encrypted risk assessment, fraud detection & AML monitoring
-- ⚡ Hardware acceleration (CPU/GPU/CUDA) support
-- 🎯 Production-ready FastAPI backend with comprehensive testing
-- **Tech:** Python 99.2%, OpenFHE, FastAPI, BGV/CKKS/BFV schemes
-
-### 🔧 [SEAL-PYTHON 4.1.5](https://github.com/chandradutt5746/SEAL-PYTHON-4.1.5)
-**Microsoft SEAL Python Bindings with Advanced Features**
-- 🛠️ Enhanced Python bindings for Microsoft SEAL library
-- 🔐 Advanced homomorphic encryption capabilities
-- **Tech:** Python 54%, C++ 42.5%, CMake
-
-### 🧪 [OpenFHE Python API](https://github.com/chandradutt5746/openfhe-python-api)
-**OpenFHE Testing & Example Suite**
-- 📚 Comprehensive examples and API usage demonstrations
-- 🧪 Testing infrastructure for OpenFHE-Python integration
-- **Tech:** Python 100%
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🔐 **SEAL-PYTHON 4.1.5** - Advanced Cryptography Library
+[![Repo](https://img.shields.io/badge/Repository-SEAL--PYTHON--4.1.5-blue?style=for-the-badge&logo=github)](https://github.com/chandradutt5746/SEAL-PYTHON-4.1.5)
+
+</div>
+
+**Enhanced Python bindings for Microsoft SEAL Homomorphic Encryption Library**
+
+<table>
+<tr>
+<td width="60%">
+
+**🎯 Project Highlights:**
+- 🔐 **Full FHE Implementation** - Complete Python bindings for Microsoft SEAL 4.1.5
+- ⚡ **Advanced Features** - BGV, CKKS, BFV encryption schemes support
+- 🛠️ **Production Ready** - CMake build system with Intel HEXL optimization
+- 🧪 **Comprehensive Testing** - Full test suite and examples included
+- 🔧 **Custom Bindings** - Pybind11-based C++ integration for performance
+
+**💡 Technical Achievement:**
+Implemented complete Python wrapper for Microsoft SEAL's homomorphic encryption, enabling developers to perform computations on encrypted data without decryption. Includes serialization, batch encoding, and multi-party computation support.
+
+</td>
+<td width="40%">
+
+**Tech Stack:**
+```
+Python      54.0%
+C++         42.5%
+CMake        1.9%
+Shell        1.6%
+```
+
+**Key Features:**
+- ✅ BGV/BFV/CKKS schemes
+- ✅ Intel HEXL acceleration
+- ✅ Batch operations
+- ✅ Key management
+- ✅ Serialization support
+- ✅ Multi-party computation
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🧪 **OpenFHE Python API** - Encryption Testing Framework
+[![Repo](https://img.shields.io/badge/Repository-openfhe--python--api-green?style=for-the-badge&logo=github)](https://github.com/chandradutt5746/openfhe-python-api)
+
+</div>
+
+**Comprehensive testing and example suite for OpenFHE Python integration**
+
+<table>
+<tr>
+<td width="60%">
+
+**🎯 Project Highlights:**
+- 📚 **Complete Documentation** - Beginner-friendly guides for BFV, BGV, CKKS
+- 🔐 **Multi-Party Computation** - Advanced key fusion and distributed encryption
+- 🧪 **Testing Framework** - Comprehensive test suite for all encryption schemes
+- 📊 **Batch Processing** - Efficient vector operations on encrypted data
+- 🎓 **Educational Resource** - Real-world use cases and best practices
+
+**💡 Innovation:**
+Created an easy-to-use API wrapper and extensive documentation for OpenFHE, making advanced cryptography accessible to Python developers. Includes step-by-step tutorials for secure voting, privacy-preserving analytics, and encrypted database queries.
+
+</td>
+<td width="40%">
+
+**Tech Stack:**
+```
+Python     100%
+OpenFHE Library
+Pytest Framework
+```
+
+**Features:**
+- ✅ BFV/BGV/CKKS examples
+- ✅ Multiparty workflows
+- ✅ Key fusion algorithms
+- ✅ Normalization utilities
+- ✅ Diagnostic tools
+- ✅ Production patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌐 **Portfolio Website** - Full-Stack Web Platform
+[![Repo](https://img.shields.io/badge/Repository-Portfoliowebsite-orange?style=for-the-badge&logo=github)](https://github.com/chandradutt5746/Portfoliowebsite)
+
+</div>
+
+**Professional portfolio and service showcase built with Django**
+
+<table>
+<tr>
+<td width="60%">
+
+**🎯 Project Highlights:**
+- 🎨 **Modern UI/UX** - Responsive design with React components
+- 🔧 **Django Backend** - Robust Python web framework
+- 📱 **Mobile-First** - Optimized for all devices
+- 🚀 **Production Deployed** - Heroku with Gunicorn WSGI server
+- ⚡ **Performance Optimized** - Fast loading and SEO-friendly
+
+**💡 Engineering Excellence:**
+Built a full-stack portfolio platform demonstrating web development expertise. Features include contact forms, project galleries, blog integration, and admin dashboard for content management.
+
+</td>
+<td width="40%">
+
+**Tech Stack:**
+- **Backend:** Django, Python
+- **Frontend:** React, JavaScript
+- **Deployment:** Heroku
+- **Server:** Gunicorn
+- **Database:** PostgreSQL
+
+**Features:**
+- ✅ Project showcase
+- ✅ Contact system
+- ✅ Admin dashboard
+- ✅ SEO optimized
+- ✅ Responsive design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack & Expertise
 
 <details open>
 <summary><b>🔐 Cryptography & Security</b></summary>
@@ -78,13 +216,9 @@ github_since: October 2020
 ![Microsoft SEAL](https://img.shields.io/badge/Microsoft_SEAL-Cryptography-0078D4?style=for-the-badge)
 ![Encryption](https://img.shields.io/badge/FHE-BGV%20%7C%20CKKS%20%7C%20BFV-red?style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-GPU_Acceleration-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Pybind11](https://img.shields.io/badge/Pybind11-C++_Bindings-00599C?style=for-the-badge)
 
-**Expertise:**
-- Fully Homomorphic Encryption (BGV, CKKS, BFV schemes)
-- Privacy-Preserving Computation
-- Quantum-Resistant Cryptography
-- Hardware-Accelerated Encryption (CUDA/GPU)
-- Secure Multi-Party Computation
+**Expertise:** Fully Homomorphic Encryption | Privacy-Preserving Computation | Multi-Party Computation | Hardware Acceleration
 
 </details>
 
@@ -99,8 +233,20 @@ github_since: October 2020
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </details>
 
@@ -112,19 +258,22 @@ github_since: October 2020
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 </details>
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>🤖 Data Science & Machine Learning</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 </details>
 
@@ -138,8 +287,8 @@ github_since: October 2020
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 </details>
 
@@ -158,25 +307,13 @@ github_since: October 2020
 </details>
 
 <details open>
-<summary><b>🤖 Data Science & ML/AI</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-</details>
-
-<details open>
 <summary><b>🔧 Big Data & Processing</b></summary>
 <br>
 
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </details>
 
@@ -187,31 +324,43 @@ github_since: October 2020
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 </details>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandradutt5746&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandradutt5746&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandradutt5746&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandradutt5746&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandradutt5746&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandradutt5746&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=chandradutt5746&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=chandradutt5746&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Chandradutt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandradutt5746&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/chandradutt5746)
 
 </div>
 
@@ -221,101 +370,136 @@ github_since: October 2020
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=chandradutt5746&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=chandradutt5746&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 💡 What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cryptography Research
+- Advancing Fully Homomorphic Encryption implementations
+- Exploring quantum-resistant cryptographic algorithms
+- Building Python bindings for cutting-edge crypto libraries
+- Contributing to open-source cryptography projects
+
+### 🤖 Data Science Projects
+- Privacy-preserving machine learning
+- Encrypted data analytics
+- Predictive modeling with secure computation
+- Big data processing with Hadoop & Spark
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+- Full-stack web applications with Django & React
+- RESTful APIs and GraphQL backends
+- Cloud-native microservices architecture
+- CI/CD pipelines and DevOps automation
+
+### 🌍 Open to Work in UK
+- **Software Engineer** positions
+- **Cryptography Engineer** roles
+- **Data Scientist** opportunities
+- **Security-focused** engineering teams
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Professional Expertise
 
 <div align="center">
-  
-[![Chandra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandradutt5746&theme=tokyo-night&hide_border=true)](https://github.com/chandradutt5746)
+
+```mermaid
+mindmap
+  root((Chandradutt))
+    Cryptography
+      OpenFHE Expert
+      Microsoft SEAL
+      FHE Schemes
+      C++ Bindings
+    Data Science
+      ML & AI
+      TensorFlow
+      PyTorch
+      Big Data
+    Software Engineering
+      Full Stack
+      Django/FastAPI
+      React/Next.js
+      Cloud DevOps
+    Security
+      Privacy Tech
+      Secure Systems
+      Encryption
+      Authentication
+```
 
 </div>
-
----
-
-## 💡 What I'm Working On
-
-### 🔐 Obfuscora Quantum - Production FHE Platform
-Building a **Fully Homomorphic Encryption** platform for financial services:
-
-- ✅ **BGV Scheme Implementation** - Integer arithmetic for risk assessment
-- ✅ **CKKS Scheme Integration** - Real number computation for fraud detection  
-- ✅ **BFV Scheme Support** - Large integer operations for AML monitoring
-- ✅ **Hardware Acceleration** - CUDA/GPU support for 10x+ performance gains
-- ✅ **FastAPI Backend** - Production-ready REST API with comprehensive testing
-- 🔄 **Batch Processing** - Handle 400+ customer records/second
-- 🔄 **Mock Fallback System** - Graceful degradation when OpenFHE unavailable
-
-**Key Achievement:** Successfully implemented privacy-preserving computation that allows financial calculations on encrypted data without ever exposing sensitive information.
-
----
-
-## 🎓 Technical Expertise Highlights
-
-### Cryptography & Security
-- **Fully Homomorphic Encryption (FHE):** OpenFHE, Microsoft SEAL
-- **Encryption Schemes:** BGV, CKKS, BFV, modular arithmetic
-- **Performance Optimization:** GPU acceleration, batch processing, parallel computation
-- **Security Levels:** 128-bit, 192-bit, 256-bit encryption parameters
-
-### Software Engineering
-- **Backend Architecture:** FastAPI, Django REST Framework, microservices
-- **API Design:** RESTful APIs, GraphQL, JWT authentication
-- **Testing:** Pytest, integration testing, performance benchmarking
-- **DevOps:** Docker, CI/CD, cloud deployment (AWS/Azure/GCP)
-
-### Data Science & ML
-- **Libraries:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
-- **Focus:** Privacy-preserving ML, secure model inference
-- **Big Data:** Hadoop, Spark for large-scale processing
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cnpatel5746)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandradutt5746)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnpatel5746@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/chandradutt5746/Portfoliowebsite)
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## 💼 Professional Snapshot
 
-🎯 **Cryptography Engineer** with hands-on expertise in **Fully Homomorphic Encryption**, privacy-preserving computation, and secure system design. Currently developing production-grade FHE solutions for financial services using **OpenFHE** and **Microsoft SEAL**.
+<div align="center">
 
-🔐 **Core Competencies:**
-- Building privacy-preserving systems that compute on encrypted data
-- Implementing BGV, CKKS, and BFV encryption schemes in production
-- Hardware acceleration with CUDA/GPU for cryptographic operations
-- Full-stack development with Python, FastAPI, Django, and React
-- Cloud-native architecture on AWS, Azure, and GCP
+| 🎯 **Role** | 🔐 Cryptography Engineer \| 💻 Full-Stack Developer |
+|:---:|:---:|
+| 🌍 **Location** | Open to UK Opportunities 🇬🇧 |
+| 💡 **Specialization** | Privacy-Preserving Technology & Secure Systems |
+| 🔧 **Core Skills** | FHE, ML/AI, Python, C++, Django, React |
+| 📅 **Experience** | 4+ years in Software Development |
+| 🎓 **Focus** | Cryptography, Security, Data Science |
 
-🌍 **Currently seeking Software Engineering and Cryptography roles in the United Kingdom** - Open to opportunities in cybersecurity, fintech, privacy tech, and cryptography-focused companies.
+</div>
+
+**🔍 What Sets Me Apart:**
+- ✅ **Cryptography Specialist** - Expert in OpenFHE & Microsoft SEAL implementations
+- ✅ **Privacy-First Mindset** - Building secure-by-design systems
+- ✅ **Full-Stack Capability** - From cryptographic algorithms to production web apps
+- ✅ **Open Source Contributor** - Active in cryptography and security communities
+- ✅ **Continuous Learner** - Always exploring cutting-edge technologies
 
 ---
 
 <div align="center">
-  
-### 🔐 Privacy-Preserving Computation | Cryptography Engineering | Secure System Design
 
-**"Building the future of privacy-preserving technology, one encrypted computation at a time"**
+### 🚀 Let's Build Something Amazing Together!
+
+**"Securing the future with privacy-preserving technology"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chandradutt5746&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/chandradutt5746?style=for-the-badge&color=blue&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/chandradutt5746?style=for-the-badge&color=yellow&label=Total+Stars)
+![GitHub Stars](https://img.shields.io/github/stars/chandradutt5746?style=for-the-badge&color=yellow&label=Total+Stars)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Open%20to%20Work%20in%20UK%20🇬🇧&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
 
 ---
 
-⭐️ From [chandradutt5746](https://github.com/chandradutt5746) | **Member since October 2020**
+⭐️ From [chandradutt5746](https://github.com/chandradutt5746) | **GitHub Member since October 2020**
 
-*Interested in Fully Homomorphic Encryption, Privacy Tech, or Security Engineering? Let's collaborate!* 🚀🔐
+*Interested in Cryptography, Privacy Tech, Data Science, or Secure Systems? Let's collaborate!* 🚀🔐
 
 </div>
