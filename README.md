@@ -366,16 +366,6 @@ Built a full-stack portfolio platform demonstrating web development expertise. F
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=chandradutt5746&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
-
 ## 💡 What I'm Currently Doing
 
 <table>
@@ -419,30 +409,46 @@ Built a full-stack portfolio platform demonstrating web development expertise. F
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Chandradutt))
-    Cryptography
-      OpenFHE Expert
-      Microsoft SEAL
-      FHE Schemes
-      C++ Bindings
-    Data Science
-      ML & AI
-      TensorFlow
-      PyTorch
-      Big Data
-    Software Engineering
-      Full Stack
-      Django/FastAPI
-      React/Next.js
-      Cloud DevOps
-    Security
-      Privacy Tech
-      Secure Systems
-      Encryption
-      Authentication
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandradutt5746/chandradutt5746/main/expertise-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandradutt5746/chandradutt5746/main/expertise-light.svg">
+  <img alt="Professional Expertise Mindmap" src="https://raw.githubusercontent.com/chandradutt5746/chandradutt5746/main/expertise-dark.svg">
+</picture>
+
+**Core Competencies:**
+
 ```
+🔐 CRYPTOGRAPHY          🤖 DATA SCIENCE           💻 SOFTWARE ENGINEERING    🛡️ SECURITY
+├─ OpenFHE Expert        ├─ Machine Learning       ├─ Full-Stack Dev         ├─ Privacy Tech
+├─ Microsoft SEAL        ├─ TensorFlow             ├─ Django/FastAPI         ├─ Secure Systems
+├─ FHE Schemes           ├─ PyTorch                ├─ React/Next.js          ├─ Encryption
+└─ C++ Bindings          └─ Big Data               └─ Cloud DevOps           └─ Authentication
+```
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Cryptography-Expert-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white" />
+<br><b>OpenFHE & SEAL</b><br>
+<sub>Privacy-Preserving Computation</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Data_Science-Advanced-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<br><b>ML & AI</b><br>
+<sub>TensorFlow, PyTorch, Big Data</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Full_Stack-Professional-95E1D3?style=for-the-badge&logo=react&logoColor=white" />
+<br><b>Web Development</b><br>
+<sub>Django, React, Cloud Native</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Security-Specialist-F38181?style=for-the-badge&logo=auth0&logoColor=white" />
+<br><b>Privacy & Security</b><br>
+<sub>Secure-by-Design Systems</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
