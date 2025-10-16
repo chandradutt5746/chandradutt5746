@@ -18,7 +18,7 @@
 
 ```yaml
 name: Patel Chandradutt
-role: Cryptography Engineer | Software Developer
+role:  Cryptography Engineer | Software Developer
 location: 🇬🇧 Actively seeking opportunities in the United Kingdom
 specialization: 
   - Fully Homomorphic Encryption (FHE)
