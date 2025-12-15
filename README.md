@@ -18,7 +18,7 @@
 
 ```yaml
 name: Patel Chandradutt
-role:  Cryptography Engineer | Software Developer
+role:     Cryptography Engineer | Software Developer
 location: 🇬🇧 Actively seeking opportunities in the United Kingdom
 specialization: 
   - Fully Homomorphic Encryption (FHE)
@@ -351,16 +351,6 @@ Built a full-stack portfolio platform demonstrating web development expertise. F
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=chandradutt5746&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Chandradutt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandradutt5746&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/chandradutt5746)
 
 </div>
 
