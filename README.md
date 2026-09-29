@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/hero.svg" alt="Chandradutt Patel - Software Engineer and Builder" width="100%"/>
-
+ 
 <br/>
 
 **Building software where sensitive data stays protected, even while it's being used.**
@@ -11,8 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cnpatel5746)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnpatel5746@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/chandradutt5746/Portfoliowebsite)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandradutt1999@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/chandradutt5746/)
 
 </div>
 
