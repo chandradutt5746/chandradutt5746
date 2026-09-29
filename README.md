@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Chandradutt Patel - Software Engineer and Builder" width="100%"/>
+<img src="/hero.svg" alt="Chandradutt Patel - Software Engineer and Builder" width="100%"/>
  
 <br/>
 
@@ -27,7 +27,7 @@ MSc in Big Data Technologies (University of East London), with a Master of Compu
 ## What I build, and how it works
 
 <div align="center">
-<img src="assets/how-it-works.svg" alt="Encrypt, compute on ciphertext, decrypt" width="100%"/>
+<img src="/how-it-works.svg" alt="Encrypt, compute on ciphertext, decrypt" width="100%"/>
 </div>
 
 That's Fully Homomorphic Encryption (FHE) in three steps. My work sits in the middle box: making it usable from Python.
